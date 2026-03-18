@@ -17,17 +17,16 @@ go through the paywall of subscription based LLM tooling.
 
 ## Background
 
-[A 19k lines-of-code Pull Request][1] was opened without much public attention
-back in January, 2026. The [author][2] is a well known and long time contributor
-to Node.js core, but the Pull Request description has listed this sentence as
-a disclaimer:
+[A 19k lines-of-code Pull Request][1] was opened in January, 2026. The 
+[author][2] is a well known and long time contributor to Node.js core, but the 
+Pull Request description has listed this sentence as a disclaimer:
 
 > I've used a significant amount of Claude Code tokens to create this PR.
 > I've reviewed all changes myself.
 
-The change would have went unnoticed if not for the [blog post][3] that surfaced
-on [Hacker News][4] that started a debate into whether the change like that
-even satisfies the requirements of [Developer's Certificate of Origin (DCO)][5]:
+The [blog post][3] that surfaced on [Hacker News][4] that started a debate over 
+whether a change like that even satisfies the requirements of 
+[Developer's Certificate of Origin (DCO)][5]:
 
 ```text
 By making a contribution to this project, I certify that:
@@ -56,7 +55,7 @@ By making a contribution to this project, I certify that:
 ```
 
 and even though the [legal opinion of OpenJS foundation][6] is that LLM assisted
-change is not in violation of DCO. We believe that this is only a small part of
+changes are not in violation of DCO, we believe that this is only a small part of
 the issue with large LLM-written changes to the Node.js core.
 
 ## Sign the Petition
@@ -91,6 +90,8 @@ speed up the process.
 - Bryan English (Node.js Core Collaborator, user since Ryan announced it)
 - Andrew Benbow (Web Developer)
 - Reilly Spitzfaden (Programmer, Node.js User)
+- James Sumners (Open Source Developer)
+- Jeremy Jenkins (Software Engineer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
