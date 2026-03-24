@@ -184,6 +184,7 @@ speed up the process.
 - Lee Ashmore (Software Engineer)
 - Erik Westra (Developer)
 - Andrei Mandrican (Developer)
+- Sahil Agarwal (Developer, Nodejs user)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
