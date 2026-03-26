@@ -192,6 +192,7 @@ speed up the process.
 - Tom P Rogers (Software Developer)
 - Leslie Wong (Software Engineer)
 - Denis Craig (Software Engineer)
+- Alex Petcoglo (Developer)
 - Abhinav Patel (Software Engineer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
